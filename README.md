@@ -1,10 +1,8 @@
-# !!!!! DEPRECATED !!!!!
+# !!!!! Fork updated to May 2025 !!!!!
+This fork of lociii original work was made for those of us who wants to keep it simple without having this overwolf plugin software running and keeping the original CS2 integration by webhook directly to our homeassistant...
+It updates the relevant parts that got broke in May 2025 update of home assistant.
+Added an example of updated scripts/automation to use.
 
-I've built a new integration to support many more games through the Overwolf platform.
-
-Search for "Overwolf Webhook" in HACS.
-
-Source and support on https://github.com/lociii/homeassistant-overwolf-status and https://github.com/lociii/overwolf-homeassistant-webhook.
 
 # CS:GO game state integration for Home Assistant
 
