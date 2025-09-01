@@ -1,7 +1,5 @@
-# !!!!! Fork for May 2025 support !!!!!
 
-Here is updated scripts/automations that should work nice:
-
+# Examples of automation that play nice with Yeelight 
 Automations:
 ```
 - id: cs2_round_freeze
@@ -210,7 +208,7 @@ csgo_flashloop:
           - SleepTransition: 400
 ```
 
-***For the scripts I used yeelight service to change the light modes (as this was a yeelight light) but just change it to the proper light you own and the way you can call it for changes in the modes/rgb and so on...***
+***This example was using a Yeelight integration, so some changes may be needed to fit to other smart lights.. ***
 
 # CS:GO game state integration for Home Assistant
 
