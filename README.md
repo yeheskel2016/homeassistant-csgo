@@ -1,11 +1,3 @@
-## Alternative overwolf integration
-
-I've built a new integration to support many more games through the Overwolf platform.
-
-Search for "Overwolf Webhook" in HACS.
-
-Source and support on https://github.com/lociii/homeassistant-overwolf-status and https://github.com/lociii/overwolf-homeassistant-webhook.
-
 # CS:GO/CS2 game state integration for Home Assistant
 
 ## What is this about?
@@ -26,3 +18,11 @@ Please read [info.md](info.md) carefully to understand how this integration is s
 
 The easiest way to install the integration is by using [Home Assistant Community Store HACS](https://hacs.netlify.com/).
 Just search for "csgo" and install the integration. Further instruction are shown in the integration description in HACS.
+
+## Alternative overwolf integration
+
+I've built a new integration to support many more games through the Overwolf platform.
+
+Search for "Overwolf Webhook" in HACS.
+
+Source and support on https://github.com/lociii/homeassistant-overwolf-status and https://github.com/lociii/overwolf-homeassistant-webhook.
